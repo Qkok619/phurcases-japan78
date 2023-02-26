@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Phurcase Japan78</title>
+    <subtitle>Infomation Source blogspot.</subtitle>
+    <link rel="self" href="https://qkok619.github.io/phurcases-japan78/"/>
+    <id>https://qkok619.github.io/phurcases-japan78/</id>
+    <updated>2023-02-26T08:51:00-08:00</updated>
+    <author>
+         <name>qkok619</name>
+    </author>
+    <rights>Copyright (c) 2023 qkok619</rights>
+    <category term="Notices"/>
+    <entry>
+        <title>Phurcase Japan78</title>
+        <link rel="alternate" href="https://qkok619.github.io/phurcases-japan78/"/>
+        <id>https://qkok619.github.io/phurcases-japan78/</id>
+        <updated>2023-02-26T08:51:00-08:00</updated>
+        <summary type="html">Hello</summary>
+        <author>
+         <name>qkok619</name>
+        </author>
+        <category term="Links"/>
+    </entry>
+</feed>
